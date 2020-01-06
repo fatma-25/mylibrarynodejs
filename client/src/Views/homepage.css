@@ -1,0 +1,52 @@
+/* .homepage {
+    display: flex;
+    
+} */
+
+/* .tt{
+    align-items: center;
+    width: 780px
+} */
+
+/* 
+.homepage > div {
+    flex: 1;
+    margin: 5px;
+    margin-top: 35px ;
+    height: 500px;
+} */
+
+/* #sidemenu{
+width:20%;
+
+} */
+/* #content{
+    width:60%;
+    box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2), 0px 4px 5px 0px rgba(224, 59, 59, 0.14), 0px 1px 10px 0px rgba(0,0,0,0.12);
+}*/
+#slideshow{
+    width:20%
+    
+} 
+
+/* .content{
+  
+    flex-grow: 1;
+    padding: theme.spacing(3),
+  
+} */
+.navigation {
+
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #737373;
+    margin-left: 137px;
+    text-decoration: underline;
+    margin-top: 40px;
+
+    /* font-size: 1.625em;
+    margin-left: 137px;
+    text-decoration: underline;
+    color: darkslateblue; */
+}

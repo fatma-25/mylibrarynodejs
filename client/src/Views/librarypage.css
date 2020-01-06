@@ -1,0 +1,28 @@
+/* .librarypage{
+    display: flex;
+
+ 
+}
+
+.librarybooks{
+    display: flex;
+ flex-wrap: wrap;
+margin-left: 300px;
+margin-right: 100px;
+  
+} */
+
+.page-container {
+    background-image: linear-gradient(to top, #ffffff, #f9f9f9, #f3f3f3, #ededed, #e7e7e7);
+    min-height: calc(100vh);
+  }
+  .container{
+    padding-top: 100px;
+    background-image: linear-gradient(to top, #ffffff, #f9f9f9, #f3f3f3, #ededed, #e7e7e7);
+    margin-top: 0px;
+  
+  }
+  .lib{
+    height: 100vh;
+  }
+  

@@ -1,0 +1,33 @@
+{
+  "name": "projet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "dev": "concurrently \"npm run server \" \"npm run client \" "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-pdf/renderer": "^1.6.7",
+    "bcrypt": "^3.0.6",
+    "concurrently": "^5.0.0",
+    "config": "^3.2.3",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6-alpha.5",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.7.4",
+    "nodemon": "^1.19.3",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "pdf-parse": "^1.1.1",
+    "pdfreader": "^1.0.6",
+    "react": "^16.10.2"
+  },
+  "devDependencies": {
+    "react-alice-carousel": "^1.15.3"
+  }
+}

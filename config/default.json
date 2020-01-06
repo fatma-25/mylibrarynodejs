@@ -1,0 +1,4 @@
+{
+    "MOGOURI": "mongodb://localhost:27017/signin",
+    "secretkey" : "gmc"
+  }
